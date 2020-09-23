@@ -1,7 +1,7 @@
 # DiscordLogBot
 A bot which can log all the discord msg
-
-### How to run
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `NodeJS'
+##### How to run
 * Register your bot with a name in [Developer portal of Discord](https://discord.com/developers/applications)
 * Add bot to the server of your choice
 * Clone the code to your local system
